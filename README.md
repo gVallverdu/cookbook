@@ -27,11 +27,13 @@ here : http://nbviewer.ipython.org/github/gvallverdu/cookbook.
 
 This is a brief description of notebooks :
 
-plotly_bandDiagram
+* plotly_bandDiagram
+
     Plot a band diagram with plotly and pymatgen libraries with a colorscale in
     order to highlight s and p contributions to a band or to the DOS.
 
-gaussian_pymatgen
+* gaussian_pymatgen
+
     How to use the pymatgen library in order to manage Gaussian input/output
     files.
 
