@@ -45,7 +45,7 @@ Hereafter, a brief description of notebooks is given :
     How to use the pymatgen library in order to manage Gaussian input/output
     files.
 
-* basis_set [en]
+* plane_waves [en]
 
     Example of plane waves.
 
