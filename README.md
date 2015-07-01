@@ -25,7 +25,9 @@ here : http://nbviewer.ipython.org/github/gvallverdu/cookbook.
 
 ## List of notebook
 
-This is a brief description of notebooks :
+Hereafter, a brief description of notebooks is given :
+
+### Quantum chemistry
 
 * plotly_bandDiagram [en]
 
@@ -42,6 +44,12 @@ This is a brief description of notebooks :
 
     How to use the pymatgen library in order to manage Gaussian input/output
     files.
+
+* basis_set [en]
+
+    Example of plane waves.
+
+### Miscellaneous
 
 * IntegrationNumerique [fr]
 
