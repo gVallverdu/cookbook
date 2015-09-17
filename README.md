@@ -51,8 +51,17 @@ Hereafter, a brief description of notebooks is given :
 
 ### Miscellaneous
 
+* MoindresCarres [fr]
+
+    Tutoriel pour découvrir python, numpy et matplotlib au travers de la 
+    méthode des moindres carrés et la régression linéaire.
+
 * IntegrationNumerique [fr]
 
     Tutoriel pour découvrir python et numpy au travers de l'intégration
     numérique.
+
+* RegularExpressionExamples [en]
+
+    Practical examples of regular expressions with python and module re.
 
