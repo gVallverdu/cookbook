@@ -68,3 +68,7 @@ Hereafter, a brief description of notebooks is given :
 * intro_matplotlib [fr]
 
    Short introduction to matplotlib
+
+* intro_plotly [fr]
+
+   Short introduction to plotly
