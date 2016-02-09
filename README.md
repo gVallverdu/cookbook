@@ -65,3 +65,6 @@ Hereafter, a brief description of notebooks is given :
 
     Practical examples of regular expressions with python and module re.
 
+* intro_matplotlib [fr]
+
+   Short introduction to matplotlib
