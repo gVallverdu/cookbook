@@ -72,3 +72,8 @@ Hereafter, a brief description of notebooks is given :
 * intro_plotly [fr]
 
    Short introduction to plotly
+
+* genetique [fr]
+
+   Apprendre python via des exercices sur l'ADN. Manipulation des dictionnaires
+   et écriture d'une classe.
