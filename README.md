@@ -75,6 +75,10 @@ Hereafter, a brief description of notebooks is given :
 
    Short introduction to plotly
 
+* anscombe [fr]
+
+   Quartet d'Anscombe
+
 ### Miscellaneous
 
 * RegularExpressionExamples [en]
