@@ -79,6 +79,11 @@ Hereafter, a brief description of notebooks is given :
 
    Quartet d'Anscombe
 
+* pandas_capp [fr]
+
+    Introduction à pandas et exemples de graphiques avec matplotlib (barh, xy, pie chart, wedges, treemaps).
+    Utilisations des données de la CAPP.
+
 ### Miscellaneous
 
 * RegularExpressionExamples [en]
