@@ -84,6 +84,10 @@ Hereafter, a brief description of notebooks is given :
     Introduction à pandas et exemples de graphiques avec matplotlib (barh, xy, pie chart, wedges, treemaps).
     Utilisations des données de la CAPP.
 
+* mpl_seaborn_styles [en]
+
+    Matplotlib seaborn styles in order to obtain aesthetic plots.
+
 ### Miscellaneous
 
 * RegularExpressionExamples [en]
