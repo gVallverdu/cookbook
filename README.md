@@ -90,6 +90,10 @@ Hereafter, a brief description of notebooks is given :
 
 ### Miscellaneous
 
+* colorscale [en]
+
+    manage colors and palette using matplotlib, colorlover or seaborn
+
 * RegularExpressionExamples [en]
 
     Practical examples of regular expressions with python and module re.
