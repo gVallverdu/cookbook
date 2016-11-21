@@ -65,6 +65,11 @@ Hereafter, a brief description of notebooks is given :
     Tutoriel pour découvrir python et numpy au travers de l'intégration
     numérique.
 
+* curve_fit [en]
+
+    A detailed example of curve_fit from reading the data on a csv file with pandas
+    to plot the result of a non linear fit.
+
 ### Plot
 
 * intro_matplotlib [fr]
