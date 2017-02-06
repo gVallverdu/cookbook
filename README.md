@@ -49,6 +49,10 @@ Hereafter, a brief description of notebooks is given :
 
     Example of plane waves.
 
+* atomic_orbitals [fr]
+
+    Plots of radial and angular part of atomic orbitals. Electronic density.
+
 ### Numpy / scipy
 
 * skewed_fit [en]
